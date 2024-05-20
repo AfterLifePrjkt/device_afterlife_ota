@@ -1,0 +1,20 @@
+{
+        "response": [
+                {
+                        "maintainer": "aepranta",
+                        "oem": "Redmi",
+                        "device": "Redmi 5",
+                        "version": "7.0",
+                        "codename": "Patient",
+                        "filename": "AfterLife-V7.0-Patient-OFFICIAL-rosy-20240520-Vanilla.zip",
+                        "download": "https://sourceforge.net/projects/afterlife-projects/files/release/rosy/AfterLife-V7.0-Patient-OFFICIAL-rosy-20240520-Vanilla.zip/download",
+                        "timestamp": 1716174727,
+                        "md5": "b71a3b0726a2cc3b670495c799b05076",
+                        "sha256": "de3108efad0e7d1fe43733fab40845b655cd8ba1c8a2a36034a2b23882fa7730",
+                        "size": 803194268,
+                        "buildtype": "Daily",
+                        "forum": "",
+                        "telegram": ""
+                }
+        ]
+}
