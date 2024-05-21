@@ -1,18 +1,18 @@
 {
         "response": [
                 {
-                        "maintainer": "aepranta",
+                        "maintainer": "aepranata",
                         "oem": "Redmi",
                         "device": "Redmi 5",
                         "version": "7.0",
                         "codename": "Patient",
-                        "filename": "AfterLife-V7.0-Patient-OFFICIAL-rosy-20240520-Vanilla.zip",
-                        "download": "https://sourceforge.net/projects/afterlife-projects/files/release/rosy/AfterLife-V7.0-Patient-OFFICIAL-rosy-20240520-Vanilla.zip/download",
-                        "timestamp": 1716174727,
-                        "md5": "b71a3b0726a2cc3b670495c799b05076",
-                        "sha256": "de3108efad0e7d1fe43733fab40845b655cd8ba1c8a2a36034a2b23882fa7730",
-                        "size": 803194268,
-                        "buildtype": "Daily",
+                        "filename": "AfterLife-V7.0-Patient-OFFICIAL-rosy-20240522-Vanilla.zip",
+                        "download": "https://sourceforge.net/projects/ae-cloud/files/afl/AfterLife-V7.0-Patient-OFFICIAL-rosy-20240522-Vanilla.zip/download",
+                        "timestamp": 1716343480,
+                        "md5": "14e150f95a60ad9f15e5c1df9579cad7",
+                        "sha256": "50a2939bbe0724acef573a8ecf8caf1567921692c0ee25bbb9440fcfb9c6f342",
+                        "size": 802972515,
+                        "buildtype": "daily",
                         "forum": "",
                         "telegram": ""
                 }
