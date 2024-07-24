@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Weekly
+Device: X00TD
+Device maintainer: Romeo
+
+Highlights & Device Specific Changes:
+====================================
+24th July, 2024
+
+* Initial Release

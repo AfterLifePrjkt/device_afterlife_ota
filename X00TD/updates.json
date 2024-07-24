@@ -1,0 +1,20 @@
+{
+    "response": [
+        {
+            "maintainer": "Romeo_Delta_wishkey",
+            "oem": "Asus",
+            "device": "Asus Zenfone Max Pro M1",
+            "version": "7.0",
+            "codename": "Patience",
+            "filename": "AfterLife-V7.0-Patience-OFFICIAL-X00TD-20240724-Vanilla.zip",
+            "download": "https://sourceforge.net/projects/afterlife-projects/files/release/X00TD/AfterLife-V7.0-Patience-OFFICIAL-X00TD-20240724-Vanilla.zip/download",
+            "timestamp": 1721832366,
+            "md5": "32adfda7b03fdfa89c4d4cd4330ee21d",
+            "sha256": "3370e33091103ae7f096133d115e8935ce1da18d553fb3c25ff0008e4f2da840",
+            "size": 1157747462,
+            "buildtype": "testing",
+            "forum": "",
+            "telegram": ""
+        }
+    ]
+}
