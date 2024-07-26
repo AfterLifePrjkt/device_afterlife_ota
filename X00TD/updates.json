@@ -6,15 +6,13 @@
             "device": "Asus Zenfone Max Pro M1",
             "version": "7.0",
             "codename": "Patience",
-            "filename": "AfterLife-V7.0-Patience-OFFICIAL-X00TD-20240724-Vanilla.zip",
-            "download": "https://sourceforge.net/projects/afterlife-projects/files/release/X00TD/AfterLife-V7.0-Patience-OFFICIAL-X00TD-20240724-Vanilla.zip/download",
-            "timestamp": 1721832366,
-            "md5": "32adfda7b03fdfa89c4d4cd4330ee21d",
-            "sha256": "3370e33091103ae7f096133d115e8935ce1da18d553fb3c25ff0008e4f2da840",
-            "size": 1157747462,
-            "buildtype": "testing",
-            "forum": "",
-            "telegram": ""
+            "filename": "AfterLife-V7.0-Patience-OFFICIAL-X00TD-20240726-Vanilla.zip",
+            "download": "https://sourceforge.net/projects/afterlife-projects/files/release/X00TD/AfterLife-V7.0-Patience-OFFICIAL-X00TD-20240726-Vanilla.zip/download",            "timestamp": 1721975621,
+            "md5": "14bf6fe0c0915314a4d1154996fb0413",
+            "sha256": "52ff5ada251801bd58991283f30788152e779f5d1152aacb74458b92d189d152",            "size": 1157150792,
+            "buildtype": "Beta Testing",
+            "forum": "https://t.me/AfterLifeOS/62947",
+            "telegram": "https://t.me/Afterlife_update"
         }
     ]
 }

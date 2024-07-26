@@ -5,6 +5,6 @@ Device maintainer: Romeo
 
 Highlights & Device Specific Changes:
 ====================================
-24th July, 2024
+26th July, 2024
 
-* Initial Release
+* Beta release 
