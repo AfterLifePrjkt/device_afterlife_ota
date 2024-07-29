@@ -1,10 +1,15 @@
 Highlights & Device Specific Changes:
-Build type: Weekly
+Build type: Official
 Device: X00TD
 Device maintainer: Romeo
 
 Highlights & Device Specific Changes:
 ====================================
-26th July, 2024
+29 July, 2024
 
-* Beta release 
+* Initial Official release For A14
+* Use This TWRP https://t.me/XZone_Ctrl/715
+* Recommended FW 063/087
+* Recommended NikGapps Basic 
+* Support KSU lates
+* Clean flash always recommended
