@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Official
+Device: ysl
+Device maintainer: AL
+
+Highlights & Device Specific Changes:
+====================================
+31 July, 2024
+
+* Initial Official release For A14
