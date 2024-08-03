@@ -1,0 +1,21 @@
+Highlights & Device Specific Changes:
+Build type: Official
+Device: ginkgo
+Device maintainer: Hirokixd
+
+Highlights & Device Specific Changes:
+====================================
+ # 03 August 2024:
+- Initial Afterlife 7.0 Android 14 UQPR2 Release
+- Fix bug where fingerprint always vibrates when touched
+- Fix low brightness
+- Fix HDR Google Camera bug
+- PlayIntegrity passed by default
+- Update adreno drivers to 530.54
+- Wifi: Enable Optimized Power Management
+- props: Prefer 'cache' backing storage
+- Enable Framework Boost
+- Switch to jemalloc
+- Added speed preopt for Trebuchet/SystemUI/Settings
+- Include MiuiCamera & potrait mode work properly
+- Signed build with private key
