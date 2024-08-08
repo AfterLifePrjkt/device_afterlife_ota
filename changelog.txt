@@ -1,0 +1,15 @@
+Highlights & Device Specific Changes:
+Build type: Official
+Device: sweet
+Device maintainer: unsatifsed27
+
+Highlights & Device Specific Changes:
+====================================
+
+8 Agustus 2024
+
+- Initial Release A14
+
+
+thanks for :
+@xSkyyHinohara, @aepranata for helping
