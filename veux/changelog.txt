@@ -5,6 +5,12 @@ Device maintainer: MrTopiA
 
 Highlights & Device Specific Changes:
 ====================================
+ # 12 August 2024
+- Dropped ViPER
+- Implement Lineage Health HAL
+- Add Equaliser for Dolby Atmos
+
+
  # 08 August 2024:
  
 - Initial Android 14 QPR2
