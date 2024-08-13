@@ -1,0 +1,14 @@
+Highlights & Device Specific Changes:
+Build type: Official
+Device: realme XT
+Device maintainer: Bava7325
+
+Highlights & Device Specific Changes: 
+=====================================
+12th August, 2024
+
+* Initial Official release For A14
+* QPR2 with May security patch
+* Gapps not included(vanilla build)
+* Enforcing, User & Signed Build
+* Play integrity pass by default
