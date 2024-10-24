@@ -35,3 +35,19 @@ Highlights & Device Specific Changes:
 - surya: MiuiCamera: Included Leica Camera
 - surya: Play integrity should passed by default
 - surya: Firmware Already included
+
+# 19 Septeber 2024:
+- Set LTE+ threshold bandwidth to 0 by default
+- Enable voLTE/voWIFI/ViLTE for Portugal networks
+- Enable VoLTE/ViLTE/VoWiFi for entire 470 mcc
+- Update CarrierConfig to NOS 2.6
+- Disable phantom processing by default for fix some apps issue like a termux got error signal 9
+- Enable USB Debugging by default after boot
+- Fix low mic volume on voip
+- Switch to Shiryu:[Raghael] for kernel
+- Synced with latest source
+
+# 24 October 2024:
+- Bring back LeicaCam 4.7
+- Add support for AfterEcho (AfterlifeOS Dolby Atmos)
+- Rounded screen decorations for Screenshots and Screen Records
