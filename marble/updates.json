@@ -1,0 +1,20 @@
+{
+    "response": [
+        {
+            "maintainer": "MAULSxSMG",
+            "oem": "POCO",
+            "device": "POCO F5",
+            "version": "7.2",
+            "codename": "Polite",
+            "filename": "afterlife_marble-7.2_polite-official_20241028-vanilla.zip",
+            "download": "https://sourceforge.net/projects/afterlife-projects/files/release/marble/afterlife_marble-7.2_polite-official_20241028-vanilla.zip/download",
+            "timestamp": 1730081900,
+            "md5": "b11b530ad272c4fc906d645d7e18fd9d",
+            "sha256": "839410bc97518f06c59cd82bc20d0085d86757d9c64b873ffabb001682a21d3a",
+            "size": 1840156842,
+            "buildtype": "OFFICIAL",
+            "forum": "https://t.me/mauls_build",
+            "telegram": "https://t.me/Maulanariaddy"
+        }
+    ]
+}
