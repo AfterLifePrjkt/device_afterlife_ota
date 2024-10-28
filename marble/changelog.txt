@@ -1,0 +1,15 @@
+Highlights & Device Specific Changes:
+Build type: Official
+Device: POCO F5
+Device maintainer: MAULSxSMG
+
+Highlights & Device Specific Changes:
+=====================================
+28th October, 2024
+
+* Initial Official release
+* Added Dolby Vision
+* Update Media Codecs
+* Optimize Native, Dex2oat
+* Prop: Remove Froce Triple
+* Enable Mediaserver 64bit 
