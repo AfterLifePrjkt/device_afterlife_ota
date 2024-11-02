@@ -7,9 +7,18 @@ Highlights & Device Specific Changes:
 =====================================
 28th October, 2024
 
-* Initial Official release
-* Added Dolby Vision
-* Update Media Codecs
-* Optimize Native, Dex2oat
-* Prop: Remove Froce Triple
-* Enable Mediaserver 64bit 
+* Nuke powerhint.json
+* Adaptable thermal QTI
+* Bring back Perf QTI Stack
+* Add QTI Health Implementation
+* Enable QDCM  + persis.sys.sf.native_mode = 258
+* Enable haptic text keyboard
+* Added Sustained Performance
+* SQLITE disable memory
+* Enable JIO 5G flag
+* Allow carrierconfig volte,vowifi,wfc default
+* Import missing carrierconfig
+* Enable missing IMS features flag ( Telkomsel,XL,Three, and country)
+* Enable powersaving radio
+* Build some missing LDAC, Audio, etc
+* Sync upstream source afterlife Fixed Integrity, etc.
