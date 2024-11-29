@@ -43,3 +43,11 @@ Highlights & Device Specific Changes:
 - Change to ANX MiuiCamera
 - Change default kernel to Ryzen kernel
 - Switch to QTI Memtrack AIDL HAL
+
+-----------------------------------
+ # 29 November 2024
+
+- Enable some android go features
+- Added Charging Controller
+- Build wcnss_service from source
+- Enable ro.config.avoid_gfx_accel
