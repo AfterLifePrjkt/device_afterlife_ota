@@ -22,3 +22,14 @@ Highlights & Device Specific Changes:
 • Copy audio configs from in-tree HALs
 • Update extract utils
 • Update KernelSU to v0.9.4
+
+------------------------------------
+07th December, 2024
+
+• Update blobs from FP3-REL-6.A.031.5-gms-fa7632b5-user
+• Update audio HAL
+• Bring back libmmcamera_ppeiscore.so from stock
+• Update sepolicy rules
+• Update permission on init
+• Adding indonesian translation on AtigaFX
+• Shipped with AtigaArtStub
