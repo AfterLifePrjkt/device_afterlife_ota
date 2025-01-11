@@ -51,3 +51,16 @@ Highlights & Device Specific Changes:
 - Added Charging Controller
 - Build wcnss_service from source
 - Enable ro.config.avoid_gfx_accel
+
+-----------------------------------
+ # 11 January 2025
+
+- Import power HAL AIDL implementation
+- Switch to Retrofit Dynamic Partition
+- Use FUSE passthrough by default
+- Build and enable fastbootd
+- Apply dex2oat optimizations
+- Drop vendor mount point symlinks
+- Add Uclamp tunings
+- Drop SchedBoost from powerhint
+- Change default kernel to Astra-Kernel v1.2
